@@ -19,3 +19,6 @@ Run .exe file as a Adminstator
 
 ⬇️ Downloads
 Find the latest release of Optimizer on the [Releases](https://github.com/Sher1fffov/AIO-System-Optimizer/releases) page.
+
+Photos 
+<img width="1909" height="1073" alt="image" src="https://github.com/user-attachments/assets/4c507a5c-3002-496b-a7a8-f996b273b417" />
