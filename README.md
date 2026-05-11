@@ -22,10 +22,20 @@ Find the latest release of Optimizer on the [Releases](https://github.com/Sher1f
 
 Photos from the App
 1. <img width="1909" height="1073" alt="image" src="https://github.com/user-attachments/assets/4c507a5c-3002-496b-a7a8-f996b273b417" />
+
+
 2. <img width="1908" height="1073" alt="image" src="https://github.com/user-attachments/assets/6aa1ddc0-9f0c-43f9-924f-eac7f4a3c85d" />
+
+
 3. <img width="1909" height="1072" alt="image" src="https://github.com/user-attachments/assets/9e6d8e1b-eab0-4d6d-8802-49d7e9006ac5" />
+
+
 4. <img width="1910" height="1073" alt="image" src="https://github.com/user-attachments/assets/cd337f97-2263-42ef-b7ba-8abd0460bc41" />
+
+
 5. <img width="1910" height="1072" alt="image" src="https://github.com/user-attachments/assets/3ef17129-8ed2-421c-9288-48167c9d295e" />
+
+
 
 
 
