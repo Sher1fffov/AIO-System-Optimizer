@@ -7,7 +7,7 @@ New Release Comes with .exe format
 
 ⚡ CPU & Power Tweaks: Adjusts Win32PrioritySeparation and system responsiveness to prioritize active games. Injects a custom power plan for maximum performance and disables CPU throttling/C-States for maximum clock speed stability.
 
-⏱️ True 0.5ms Timer Resolution: Compiles a native, crash-proof background service to permanently lock the Windows Timer Resolution to 0.5ms (Active from the boot automaticly till shutting down) , and disables HPET to drastically reduce input delay.
+⏱️ True 0.5ms Timer Resolution: Compiles a native background service to permanently lock the Windows Timer Resolution to 0.5ms (Active from the boot automaticly till shutting down) , and disables HPET to drastically reduce input delay.
 
 🧠 RAM & Memory Tuning: Optimizes memory handling by disabling active compression on 16GB+ systems to free up CPU cycles, properly splits svchost thresholds for crash prevention, and disables the NDU service to permanently patch non-paged pool memory leaks. Includes profiles for high and low-end hardware.
 
@@ -17,7 +17,8 @@ New Release Comes with .exe format
 
 ⚙️ UI Tuning: Turns off UI transparency for faster window rendering, and restores the classic right-click menu.
 
-⬇️ Downloads
+⬇️ Downloads:
+
 Find the latest release of Optimizer on the [Releases](https://github.com/Sher1fffov/AIO-System-Optimizer/releases) page.
 
 🖼️ Photos from the App
