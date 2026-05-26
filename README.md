@@ -1,7 +1,6 @@
 # AIO-Ultimate System-Optimizer
 ℹ️ Advanced Utility for quick Optimization and Debloating 
 
-New Release Comes with .exe format
 
 <h2>Run .exe file as a Adminstator</h2>
 
